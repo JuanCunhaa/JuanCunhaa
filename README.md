@@ -51,7 +51,6 @@
 ---
 
 ## 🧭 Atividade recente
-> Atualiza automaticamente 1x/dia via GitHub Actions
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
