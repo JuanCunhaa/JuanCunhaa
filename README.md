@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- Perfil: README do GitHub (JuanCunhaa) -->
 
-<!--
-**Juan-G-Cunha/Juan-G-Cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, eu sou o Juan Cunha 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  São Paulo — Zona Leste • Menos clique, mais script: automação e segurança.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:juan.cunha@afrikatec.com.br"><img alt="Email (Empresa)" src="https://img.shields.io/badge/Email%20(Empresa)-informational?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:juangigliotticunha09062006@gmail.com"><img alt="Email (Pessoal)" src="https://img.shields.io/badge/Email%20(Pessoal)-informational?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/juan--cunha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"></a>
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=JuanCunhaa&style=for-the-badge&color=grey"/>
+</p>
+
+<!-- GIF decorativo (opcional). Para remover, apague a linha abaixo. -->
+<p align="right">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding gif"/>
+</p>
+
+---
+
+## 🧰 Stack & interesses
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevSecOps-000000?logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Métricas (autoatualizadas)
+<div align="center">
+
+<!-- Stats principais -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanCunhaa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCunhaa&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+
+<!-- Streak -->
+<br/>
+<img src="https://streak-stats.demolab.com?user=JuanCunhaa&theme=dark&hide_border=true" />
+
+<!-- Troféus -->
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=JuanCunhaa&theme=dracula&no-frame=true&margin-w=8&margin-h=8&row=1" />
+</div>
+
+---
+
+## 🧭 Atividade recente
+> Atualiza automaticamente 1x/dia via GitHub Actions
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <i>“Código limpo, seguro e funcional — sempre.”</i>
+</p>
