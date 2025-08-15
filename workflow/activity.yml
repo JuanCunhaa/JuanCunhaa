@@ -1,0 +1,17 @@
+name: Atualizar atividade recente
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@main
+        with:
+          COMMIT_MSG: "chore(readme): atualiza atividade recente"
