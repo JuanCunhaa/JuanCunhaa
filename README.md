@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Métricas (autoatualizadas)
+## 📊 Métricas
 <div align="center">
 
 <!-- Stats principais -->
