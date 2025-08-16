@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o Juan Cunha 👋</h1>
 
 <p align="center">
-  São Paulo — Zona Leste • Menos clique, mais script: automação e segurança.
+  Menos clique, mais script: automação e segurança.
 </p>
 
 <p align="center">
