@@ -1,11 +1,10 @@
 name: Atualizar atividade no README
 
 on:
-  push:
-    branches: ['main']   # ajuste se sua branch principal for outra
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
+
 
 permissions:
   contents: write
