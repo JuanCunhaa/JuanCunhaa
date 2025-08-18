@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o Juan Cunha 👋</h1>
 
 <p align="center">
-  Menos clique, mais script: automação e segurança.
+  Estudante de Ciências da Computação
 </p>
 
 <p align="center">
