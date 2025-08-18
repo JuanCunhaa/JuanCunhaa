@@ -51,9 +51,6 @@
 <br/>
 <img src="https://streak-stats.demolab.com?user=JuanCunhaa&theme=dark&hide_border=true" />
 
-<!-- Troféus -->
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=JuanCunhaa&theme=dracula&no-frame=true&margin-w=8&margin-h=8&row=1" />
 </div>
 
 ---
