@@ -1,9 +1,9 @@
 <!-- Perfil: README do GitHub (JuanCunhaa) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=22&duration=2500&lines=Menos+clique,+mais+script;DevSecOps+|+Automação+|+Segurança)](https://git.io/typing-svg)
+<p align="center">
+  <img src="./assets/ola-juan.svg" alt="Olá, eu sou o Juan Cunha 👋" />
+</p>
 
-
-<h1 align="center">Olá, eu sou o Juan Cunha 👋</h1>
 
 <p align="center">
   Estudante de Ciências da Computação
