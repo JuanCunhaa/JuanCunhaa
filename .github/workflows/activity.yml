@@ -4,7 +4,7 @@ on:
   push:
     branches: ['main']   # ajuste se sua branch principal for outra
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
