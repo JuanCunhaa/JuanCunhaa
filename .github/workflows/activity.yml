@@ -1,10 +1,12 @@
 name: Atualizar atividade no README
 
 on:
+  push:                       # roda em todo commit/push
+    branches:
+      - main                  # ajusta se usar outra branch principal
   schedule:
-    - cron: "*/5 * * * *"
-  workflow_dispatch:
-
+    - cron: "*/5 * * * *"    # a cada 30min (UTC)
+  workflow_dispatch:          # permite rodar manualmente
 
 permissions:
   contents: write
@@ -14,10 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Atualizar atividade recente
-        uses: Readme-Workflows/recent-activity@v2.4.1
+
+      - name: Atualizar README com atividade recente
+        uses: jamesgeorge007/github-activity-readme@v0.4.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "chore: atualiza atividade recente"
           MAX_LINES: 10
-          TARGET: "README.md"
-          # timezone opcional, ex.: America/Sao_Paulo
+          TARGET_FILE: README.md
+          COMMIT_MSG: "chore: atualiza atividade recente"
+          EMPTY_COMMIT_MSG: "chore: keepalive (no activity)"
