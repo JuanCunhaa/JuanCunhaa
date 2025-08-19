@@ -17,8 +17,6 @@
 
 ---
 
-## 🛠️ Apps & Ferramentas
-
 <div align="center">
 
 ### 👨‍💻 Linguagens
@@ -52,12 +50,10 @@
 <p>
   <img src="https://img.shields.io/badge/FIAP-E61D2A?logo=google-scholar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cruzeiro%20do%20Sul-004481?logo=bookstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/M3%20Corp%20(Veracode)-00ADEF?logo=veracode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/M3%20Corp-00ADEF?logo=veracode&logoColor=white"/>
 </p>
 
 </div>
-
-
 
 ---
 
