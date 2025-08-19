@@ -1,13 +1,11 @@
 <!-- Perfil: README do GitHub (JuanCunhaa) -->
 
 <p align="center">
-  <img src="./assets/ola-juan.svg" alt="Olá, eu sou o Juan Cunha 👋" />
+  <img src="./assets/ola-juan.svg" alt="Prazer, Juan Cunha 👋" />
 </p>
 
 
-<p align="center">
-  Estudante de Ciências da Computação
-</p>
+<p align="center">💻 Estudante de Ciência da Computação focado em DevSecOps, automação e segurança de aplicações.</p>
 
 <p align="center">
   <a href="mailto:juangigliotticunha09062006@gmail.com"><img alt="Email (Pessoal)" src="https://img.shields.io/badge/Email%20(Pessoal)-informational?style=for-the-badge&logo=gmail"></a>
