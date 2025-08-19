@@ -18,24 +18,38 @@
 ---
 
 ## 🧰 Stack & Interesses
-<p align="center">
-  <!-- Linguagens -->
+
+<div align="center">
+
+### 👨‍💻 Linguagens de Programação
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
-  
-  <!-- Infra & Automação -->
+</p>
+
+---
+
+### ⚙️ Infra & Automação
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white"/>
+</p>
 
-  <!-- DevSecOps & CI/CD -->
+---
+
+### 🔒 DevSecOps & CI/CD
+<p>
   <img src="https://img.shields.io/badge/DevSecOps-000000?logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white"/>
 </p>
+
+</div>
+
 
 
 ---
