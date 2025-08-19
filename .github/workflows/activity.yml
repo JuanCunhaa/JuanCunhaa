@@ -1,9 +1,6 @@
 name: Atualizar atividade no README
 
 on:
-  push:                       # roda em todo commit/push
-    branches:
-      - main                  # ajusta se usar outra branch principal
   schedule:
     - cron: "*/5 * * * *"    # a cada 30min (UTC)
   workflow_dispatch:          # permite rodar manualmente
