@@ -10,6 +10,8 @@
 
 ---
 
+<p align="center">Informações de Contato</p>
+
 <p align="center">
   <a href="mailto:juangigliotticunha09062006@gmail.com"><img alt="Email (Pessoal)" src="https://img.shields.io/badge/Email%20(Pessoal)-informational?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/juan--cunha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"></a>
