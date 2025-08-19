@@ -55,12 +55,6 @@
 
 ---
 
-## 🧭 Atividade recente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 <p align="center">
   <i>“Código limpo, seguro e funcional — sempre.”</i>
 </p>
