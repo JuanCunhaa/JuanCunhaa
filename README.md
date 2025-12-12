@@ -80,6 +80,13 @@
 
 ---
 
+## ⏱️ Dev Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
