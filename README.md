@@ -85,7 +85,7 @@
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1](https://github.com/JuanCunhaa/Veracode-Integration-Engine/issues/1) in [JuanCunhaa/Veracode-Integration-Engine](https://github.com/JuanCunhaa/Veracode-Integration-Engine)
 2. ❗ Opened issue [#1](https://github.com/JuanCunhaa/Veracode-Integration-Engine/issues/1) in [JuanCunhaa/Veracode-Integration-Engine](https://github.com/JuanCunhaa/Veracode-Integration-Engine)
-3. 🚀 Published release [Bantuu Veracode Baseline v1.0.0](https://github.com/Afrikatec-JuanCunhaa/bantuu-baseline/releases/tag/v1) in [Afrikatec-JuanCunhaa/bantuu-baseline](https://github.com/Afrikatec-JuanCunhaa/bantuu-baseline)
+3. 🚀 Published release [Bantuu Veracode Baseline v1.0.0](https://github.com/JuanCunhaa/Veracode-Integration-Helper/releases/tag/v1) in [JuanCunhaa/Veracode-Integration-Helper](https://github.com/JuanCunhaa/Veracode-Integration-Helper)
 4. ❗ Opened issue [#74](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/74) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
 5. ❗ Opened issue [#73](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/73) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
 6. ❗ Opened issue [#72](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/72) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
