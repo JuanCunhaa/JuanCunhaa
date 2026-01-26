@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#79](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/79) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
-2. ❗ Opened issue [#78](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/78) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
-3. ❗ Opened issue [#77](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/77) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
-4. ❗ Opened issue [#74](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/74) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
-5. ❗ Opened issue [#73](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/73) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
-6. ❗ Opened issue [#72](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/72) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
+1. ❗ Opened issue [#4](https://github.com/Afrika-Training/Node/issues/4) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
+2. ❗ Opened issue [#3](https://github.com/Afrika-Training/Node/issues/3) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
+3. ❗ Opened issue [#2](https://github.com/Afrika-Training/Node/issues/2) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
+4. ❗ Opened issue [#1](https://github.com/Afrika-Training/Node/issues/1) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
+5. ❗ Opened issue [#79](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/79) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
+6. ❗ Opened issue [#78](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/78) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
 <!--END_SECTION:activity-->
 
 ---
