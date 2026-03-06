@@ -83,8 +83,8 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/Afrika-Training/Node/issues/4) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
-2. ❗ Opened issue [#3](https://github.com/Afrika-Training/Node/issues/3) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
+1. ❌ Closed PR [#1](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#1](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
 3. ❗ Opened issue [#2](https://github.com/Afrika-Training/Node/issues/2) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
 4. ❗ Opened issue [#1](https://github.com/Afrika-Training/Node/issues/1) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
 5. ❗ Opened issue [#79](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/79) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
