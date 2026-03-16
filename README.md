@@ -83,11 +83,11 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. 💪 Opened PR [#2](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-3. ❌ Closed PR [#1](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-4. 💪 Opened PR [#1](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-5. ❗ Opened issue [#79](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/79) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
+1. ❌ Closed PR [#65](undefined) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
+2. ❌ Merged PR [#2](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. 💪 Opened PR [#2](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+4. ❌ Closed PR [#1](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+5. 💪 Opened PR [#1](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
 6. ❗ Opened issue [#78](https://github.com/Afrikatec-JuanCunhaa/Node-Goat/issues/78) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
 <!--END_SECTION:activity-->
 
