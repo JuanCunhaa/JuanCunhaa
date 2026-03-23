@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. 💪 Opened PR [#3](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
-3. ❌ Merged PR [#3](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
-4. ❌ Merged PR [#1](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
-5. 💪 Opened PR [#1](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
-6. ❌ Closed PR [#65](undefined) in [Afrikatec-JuanCunhaa/Node-Goat](https://github.com/Afrikatec-JuanCunhaa/Node-Goat)
+1. ❌ Merged PR [#3](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#3](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. 💪 Opened PR [#3](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
+4. ❌ Merged PR [#3](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
+5. ❌ Merged PR [#1](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
+6. 💪 Opened PR [#1](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
 <!--END_SECTION:activity-->
 
 ---
