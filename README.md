@@ -83,11 +83,11 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. ❌ Merged PR [#4](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-3. ❌ Merged PR [#3](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-4. 💪 Opened PR [#3](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-5. 💪 Opened PR [#3](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
+1. ❗ Opened issue [#12](https://github.com/Afrika-Training/Node/issues/12) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
+2. 💪 Opened PR [#4](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. ❌ Merged PR [#4](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+4. ❌ Merged PR [#3](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+5. 💪 Opened PR [#3](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
 6. ❌ Merged PR [#3](undefined) in [FIAP-2CCR/sistema-consulta-mobile](https://github.com/FIAP-2CCR/sistema-consulta-mobile)
 <!--END_SECTION:activity-->
 
