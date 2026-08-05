@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#6](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. 💪 Opened PR [#6](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-3. ❗ Opened issue [#12](https://github.com/Afrika-Training/Node/issues/12) in [Afrika-Training/Node](https://github.com/Afrika-Training/Node)
-4. 💪 Opened PR [#4](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-5. ❌ Merged PR [#4](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-6. ❌ Merged PR [#3](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+1. ❗ Opened issue [#67](https://github.com/JuanCunhaa/Motiva-Grass/issues/67) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+2. ❗ Opened issue [#66](https://github.com/JuanCunhaa/Motiva-Grass/issues/66) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+3. ❗ Opened issue [#65](https://github.com/JuanCunhaa/Motiva-Grass/issues/65) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+4. ❗ Opened issue [#64](https://github.com/JuanCunhaa/Motiva-Grass/issues/64) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+5. ❗ Opened issue [#63](https://github.com/JuanCunhaa/Motiva-Grass/issues/63) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+6. ❗ Opened issue [#62](https://github.com/JuanCunhaa/Motiva-Grass/issues/62) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
 <!--END_SECTION:activity-->
 
 ---
