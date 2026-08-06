@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/JuanCunhaa/Motiva-Grass/pull/92#issuecomment-5198712711) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
-2. 💪 Opened PR [#92](undefined) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
-3. ❌ Merged PR [#91](undefined) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
-4. 💪 Opened PR [#91](undefined) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
-5. ❌ Merged PR [#90](undefined) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
-6. 💪 Opened PR [#90](undefined) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+1. ❌ Merged PR [#7](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#7](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. 🗣 Commented on [#92](https://github.com/JuanCunhaa/Motiva-Grass/pull/92#issuecomment-5198712711) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+4. 💪 Opened PR [#92](undefined) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+5. ❌ Merged PR [#91](undefined) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
+6. 💪 Opened PR [#91](undefined) in [JuanCunhaa/Motiva-Grass](https://github.com/JuanCunhaa/Motiva-Grass)
 <!--END_SECTION:activity-->
 
 ---
