@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
-2. 💪 Opened PR [#3](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
-3. ❌ Merged PR [#2](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
-4. 💪 Opened PR [#2](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
-5. ❌ Merged PR [#1](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
-6. 💪 Opened PR [#1](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
+1. 💪 Opened PR [#5](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
+2. ❌ Merged PR [#4](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
+3. 💪 Opened PR [#4](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
+4. ❌ Merged PR [#3](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
+5. 💪 Opened PR [#3](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
+6. ❌ Merged PR [#2](undefined) in [JuanCunhaa/Afrika-Veracode-Build](https://github.com/JuanCunhaa/Afrika-Veracode-Build)
 <!--END_SECTION:activity-->
 
 ---
