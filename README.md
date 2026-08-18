@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/devsecblueprint/devsecblueprint/pull/179#issuecomment-5261599968) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-2. ❌ Closed PR [#20535](undefined) in [microsoft/terminal](https://github.com/microsoft/terminal)
-3. 🗣 Commented on [#20535](https://github.com/microsoft/terminal/pull/20535#issuecomment-5249454266) in [microsoft/terminal](https://github.com/microsoft/terminal)
-4. 🗣 Commented on [#179](https://github.com/devsecblueprint/devsecblueprint/pull/179#issuecomment-5249449742) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-5. 🗣 Commented on [#178](https://github.com/devsecblueprint/devsecblueprint/issues/178#issuecomment-5249447137) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-6. 💪 Opened PR [#179](undefined) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+1. ❌ Merged PR [#9](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#9](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. 🗣 Commented on [#179](https://github.com/devsecblueprint/devsecblueprint/pull/179#issuecomment-5261599968) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
+4. ❌ Closed PR [#20535](undefined) in [microsoft/terminal](https://github.com/microsoft/terminal)
+5. 🗣 Commented on [#20535](https://github.com/microsoft/terminal/pull/20535#issuecomment-5249454266) in [microsoft/terminal](https://github.com/microsoft/terminal)
+6. 🗣 Commented on [#179](https://github.com/devsecblueprint/devsecblueprint/pull/179#issuecomment-5249449742) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
 <!--END_SECTION:activity-->
 
 ---
