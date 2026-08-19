@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#10](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. 💪 Opened PR [#10](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-3. ❌ Merged PR [#9](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-4. 💪 Opened PR [#9](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-5. 🗣 Commented on [#179](https://github.com/devsecblueprint/devsecblueprint/pull/179#issuecomment-5261599968) in [devsecblueprint/devsecblueprint](https://github.com/devsecblueprint/devsecblueprint)
-6. ❌ Closed PR [#20535](undefined) in [microsoft/terminal](https://github.com/microsoft/terminal)
+1. ❌ Merged PR [#11](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#11](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. ❌ Merged PR [#10](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+4. 💪 Opened PR [#10](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+5. ❌ Merged PR [#9](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+6. 💪 Opened PR [#9](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
 <!--END_SECTION:activity-->
 
 ---
