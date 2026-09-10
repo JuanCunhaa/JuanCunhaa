@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [juanig 1.1.1](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.1) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-2. 🚀 Published release [juanig 1.1.0](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.0) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-3. 🚀 Published release [juanig 1.0.3](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.3) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-4. 🚀 Published release [juanig 1.0.2](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.2) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-5. 🚀 Published release [juanig 1.0.1](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.1) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-6. 🚀 Published release [juanig 1.0.0](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.0) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+1. 🚀 Published release [juanig 1.1.3](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.3) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+2. 🚀 Published release [juanig 1.1.2](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.2) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+3. 🚀 Published release [juanig 1.1.1](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.1) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+4. 🚀 Published release [juanig 1.1.0](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.0) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+5. 🚀 Published release [juanig 1.0.3](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.3) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+6. 🚀 Published release [juanig 1.0.2](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.2) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
 <!--END_SECTION:activity-->
 
 ---
