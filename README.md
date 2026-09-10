@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [juanig 1.0.3](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.3) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-2. 🚀 Published release [juanig 1.0.2](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.2) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-3. 🚀 Published release [juanig 1.0.1](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.1) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-4. 🚀 Published release [juanig 1.0.0](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.0) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-5. ❌ Merged PR [#15](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-6. 💪 Opened PR [#15](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+1. 🚀 Published release [juanig 1.1.0](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.0) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+2. 🚀 Published release [juanig 1.0.3](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.3) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+3. 🚀 Published release [juanig 1.0.2](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.2) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+4. 🚀 Published release [juanig 1.0.1](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.1) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+5. 🚀 Published release [juanig 1.0.0](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.0.0) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+6. ❌ Merged PR [#15](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
 <!--END_SECTION:activity-->
 
 ---
