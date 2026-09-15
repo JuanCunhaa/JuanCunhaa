@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#16](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. 💪 Opened PR [#16](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-3. 🚀 Published release [juanig 1.1.3](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.3) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-4. 🚀 Published release [juanig 1.1.2](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.2) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-5. 🚀 Published release [juanig 1.1.1](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.1) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
-6. 🚀 Published release [juanig 1.1.0](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.0) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+1. ❌ Merged PR [#17](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#17](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. ❌ Merged PR [#16](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+4. 💪 Opened PR [#16](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+5. 🚀 Published release [juanig 1.1.3](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.3) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
+6. 🚀 Published release [juanig 1.1.2](https://github.com/JuanCunhaa-dev/juanig/releases/tag/v1.1.2) in [JuanCunhaa-dev/juanig](https://github.com/JuanCunhaa-dev/juanig)
 <!--END_SECTION:activity-->
 
 ---
