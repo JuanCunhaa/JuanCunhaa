@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#24](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. 💪 Opened PR [#24](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-3. 🚀 Published release [Firmware 2.0 - CP2 Motiva](https://github.com/JuanCunhaa/gp16-motiva-ota-cp2/releases/tag/v2.0.0) in [JuanCunhaa/gp16-motiva-ota-cp2](https://github.com/JuanCunhaa/gp16-motiva-ota-cp2)
-4. ❌ Merged PR [#23](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-5. 💪 Opened PR [#23](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-6. ❌ Merged PR [#22](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+1. ❌ Merged PR [#25](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#25](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. ❌ Merged PR [#24](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+4. 💪 Opened PR [#24](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+5. 🚀 Published release [Firmware 2.0 - CP2 Motiva](https://github.com/JuanCunhaa/gp16-motiva-ota-cp2/releases/tag/v2.0.0) in [JuanCunhaa/gp16-motiva-ota-cp2](https://github.com/JuanCunhaa/gp16-motiva-ota-cp2)
+6. ❌ Merged PR [#23](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
 <!--END_SECTION:activity-->
 
 ---
