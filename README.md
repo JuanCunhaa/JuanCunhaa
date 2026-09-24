@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#16](undefined) in [JevForge/jev-cloud-cost-guardian](https://github.com/JevForge/jev-cloud-cost-guardian)
-2. 💪 Opened PR [#16](undefined) in [JevForge/jev-cloud-cost-guardian](https://github.com/JevForge/jev-cloud-cost-guardian)
-3. ❌ Merged PR [#15](undefined) in [JevForge/jev-cloud-cost-guardian](https://github.com/JevForge/jev-cloud-cost-guardian)
-4. 💪 Opened PR [#15](undefined) in [JevForge/jev-cloud-cost-guardian](https://github.com/JevForge/jev-cloud-cost-guardian)
-5. ❌ Merged PR [#14](undefined) in [JevForge/jev-cloud-cost-guardian](https://github.com/JevForge/jev-cloud-cost-guardian)
-6. 💪 Opened PR [#14](undefined) in [JevForge/jev-cloud-cost-guardian](https://github.com/JevForge/jev-cloud-cost-guardian)
+1. ❌ Merged PR [#6](undefined) in [JevForge/jev-test-intelligence](https://github.com/JevForge/jev-test-intelligence)
+2. 💪 Opened PR [#6](undefined) in [JevForge/jev-test-intelligence](https://github.com/JevForge/jev-test-intelligence)
+3. ❌ Merged PR [#4](undefined) in [JevForge/jev-reviewer-navigator](https://github.com/JevForge/jev-reviewer-navigator)
+4. ❌ Merged PR [#7](undefined) in [JevForge/jev-pr-profiler](https://github.com/JevForge/jev-pr-profiler)
+5. 💪 Opened PR [#7](undefined) in [JevForge/jev-pr-profiler](https://github.com/JevForge/jev-pr-profiler)
+6. 💪 Opened PR [#4](undefined) in [JevForge/jev-reviewer-navigator](https://github.com/JevForge/jev-reviewer-navigator)
 <!--END_SECTION:activity-->
 
 ---
