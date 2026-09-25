@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.12 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.12) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
-2. 🚀 Published release [v0.1.11 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.11) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
-3. 🚀 Published release [v0.1.10 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.10) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
-4. 🚀 Published release [v0.1.9 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.9) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
-5. 🚀 Published release [v0.1.8 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.8) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
-6. 🚀 Published release [v0.1.7 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.7) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
+1. ❌ Merged PR [#26](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#26](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. 🚀 Published release [v0.1.12 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.12) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
+4. 🚀 Published release [v0.1.11 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.11) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
+5. 🚀 Published release [v0.1.10 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.10) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
+6. 🚀 Published release [v0.1.9 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.9) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
 <!--END_SECTION:activity-->
 
 ---
