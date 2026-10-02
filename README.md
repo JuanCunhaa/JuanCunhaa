@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. 🚀 Published release [AlarmeBin 1.0.1](https://github.com/JuanCunhaa-dev/AlarmeBin/releases/tag/v1.0.1) in [JuanCunhaa-dev/AlarmeBin](https://github.com/JuanCunhaa-dev/AlarmeBin)
-3. ❌ Merged PR [#26](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-4. 💪 Opened PR [#26](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-5. 🚀 Published release [v0.1.12 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.12) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
-6. 🚀 Published release [v0.1.11 — JEV Resource RightSizer](https://github.com/JevForge/jev-resource-rightsizer/releases/tag/v0.1.11) in [JevForge/jev-resource-rightsizer](https://github.com/JevForge/jev-resource-rightsizer)
+1. ❌ Merged PR [#28](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+2. 💪 Opened PR [#28](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. ❌ Merged PR [#27](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+4. 💪 Opened PR [#27](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+5. 🚀 Published release [AlarmeBin 1.0.1](https://github.com/JuanCunhaa-dev/AlarmeBin/releases/tag/v1.0.1) in [JuanCunhaa-dev/AlarmeBin](https://github.com/JuanCunhaa-dev/AlarmeBin)
+6. ❌ Merged PR [#26](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
 <!--END_SECTION:activity-->
 
 ---
