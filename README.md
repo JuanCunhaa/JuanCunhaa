@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#34](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-2. 💪 Opened PR [#34](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-3. 💪 Opened PR [#37](undefined) in [JuanCunhaa/cantina-escolar](https://github.com/JuanCunhaa/cantina-escolar)
-4. ❌ Merged PR [#33](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-5. 💪 Opened PR [#33](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-6. ❌ Merged PR [#32](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+1. 💪 Opened PR [#187](undefined) in [Rede-ENois/enois-frontend](https://github.com/Rede-ENois/enois-frontend)
+2. ❌ Merged PR [#35](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+3. 💪 Opened PR [#35](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+4. ❌ Merged PR [#34](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+5. 💪 Opened PR [#34](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
+6. 💪 Opened PR [#37](undefined) in [JuanCunhaa/cantina-escolar](https://github.com/JuanCunhaa/cantina-escolar)
 <!--END_SECTION:activity-->
 
 ---
