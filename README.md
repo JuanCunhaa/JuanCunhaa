@@ -83,12 +83,12 @@
 ## 📌 Atividade recente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#187](undefined) in [Rede-ENois/enois-frontend](https://github.com/Rede-ENois/enois-frontend)
-2. ❌ Merged PR [#35](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-3. 💪 Opened PR [#35](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-4. ❌ Merged PR [#34](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-5. 💪 Opened PR [#34](undefined) in [Afrika-Tecnologia/Veracode-Connect](https://github.com/Afrika-Tecnologia/Veracode-Connect)
-6. 💪 Opened PR [#37](undefined) in [JuanCunhaa/cantina-escolar](https://github.com/JuanCunhaa/cantina-escolar)
+1. ❌ Merged PR [#286](undefined) in [Rede-ENois/enois-frontend](https://github.com/Rede-ENois/enois-frontend)
+2. ❌ Merged PR [#285](undefined) in [Rede-ENois/enois-frontend](https://github.com/Rede-ENois/enois-frontend)
+3. 💪 Opened PR [#286](undefined) in [Rede-ENois/enois-frontend](https://github.com/Rede-ENois/enois-frontend)
+4. 🗣 Commented on [#208](https://github.com/Rede-ENois/enois-frontend/issues/208#issuecomment-6426897330) in [Rede-ENois/enois-frontend](https://github.com/Rede-ENois/enois-frontend)
+5. 💪 Opened PR [#285](undefined) in [Rede-ENois/enois-frontend](https://github.com/Rede-ENois/enois-frontend)
+6. 🗣 Commented on [#191](https://github.com/Rede-ENois/enois-frontend/issues/191#issuecomment-6426495321) in [Rede-ENois/enois-frontend](https://github.com/Rede-ENois/enois-frontend)
 <!--END_SECTION:activity-->
 
 ---
